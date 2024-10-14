@@ -1,0 +1,1 @@
+This repository contains a basic sales dashboard created using Power BI. The project was completed within half an hour, showcasing quick data visualization and reporting capabilities. It includes key metrics like total sales, product-wise performance, and regional sales distribution.
